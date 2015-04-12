@@ -1,0 +1,7 @@
+{
+  "name": "od-app",
+  "description": "a better way for ordering",
+  "repository": "https://github.com/fxxkit/od-app",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["od", "node", "order"]
+}
