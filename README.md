@@ -1,6 +1,7 @@
 # [![Web Starter Kit](https://cloud.githubusercontent.com/assets/170270/3343034/ceef6e92-f899-11e3-96b9-5d9d69d97a00.png)](https://github.com/google/web-starter-kit/releases/latest)
 
-[![GitHub version](https://badge.fury.io/gh/fxxkit%2Fod-webview.svg)](http://badge.fury.io/gh/fxxkit%2Fod-webview)
+[![Build Status](https://travis-ci.org/fxxkit/od-app.svg)](https://travis-ci.org/fxxkit/od-app)
+[![GitHub version](https://badge.fury.io/gh/fxxkit%2Fod-app.svg)](http://badge.fury.io/gh/fxxkit%2Fod-app)
 
 ## Overview
 
