@@ -43,5 +43,8 @@
   "version": "0.0.0",
   "description": "",
   "homepage": "",
-  "main": "app/index.html"
+  "main": "app/index.html",
+  "dependencies": {
+    "gulp": "^3.8.11"
+  }
 }
