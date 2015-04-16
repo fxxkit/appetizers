@@ -45,6 +45,7 @@
   "homepage": "",
   "main": "app/index.html",
   "dependencies": {
-    "gulp": "^3.8.11"
+    "gulp": "^3.8.11",
+    "gulp-load-plugins": "^0.10.0"
   }
 }
