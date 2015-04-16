@@ -141,7 +141,8 @@ gulp.task('html', function () {
 // Clean output directory
 gulp.task('clean', del.bind(null, ['.tmp', 'dist/*', '!dist/.git'], {dot: true}));
 
-// Watch files for changes & reload
+// Watch files for changes & reload 
+var dev_port = process.env.PORT || 3000
 gulp.task('serve', ['styles'], function () {
   browserSync({
     notify: false,
@@ -151,7 +152,8 @@ gulp.task('serve', ['styles'], function () {
     // Note: this uses an unsigned certificate which on first access
     //       will present a certificate warning in the browser.
     // https: true,
-    server: ['.tmp', 'app']
+    server: ['.tmp', 'app'],
+    port: dev_port
   });
 
   gulp.watch(['app/**/*.html'], reload);
@@ -161,6 +163,7 @@ gulp.task('serve', ['styles'], function () {
 });
 
 // Build and serve the output from the dist build
+var dist_port = process.env.PORT || 6174;
 gulp.task('serve:dist', ['default'], function () {
   browserSync({
     notify: false,
@@ -169,7 +172,8 @@ gulp.task('serve:dist', ['default'], function () {
     // Note: this uses an unsigned certificate which on first access
     //       will present a certificate warning in the browser.
     // https: true,
-    server: 'dist'
+    server: 'dist',
+    port: dist_port
   });
 });
 
