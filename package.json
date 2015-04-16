@@ -40,7 +40,7 @@
     "lint"
   ],
   "name": "mobile",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "",
   "homepage": "",
   "main": "app/index.html",
