@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/fxxkit/od-app.svg)](https://travis-ci.org/fxxkit/od-app)
 [![GitHub version](https://badge.fury.io/gh/fxxkit%2Fod-app.svg)](http://badge.fury.io/gh/fxxkit%2Fod-app)
+[![Code Climate](https://codeclimate.com/github/fxxkit/appetizers/badges/gpa.svg)](https://codeclimate.com/github/fxxkit/appetizers)
+[![Test Coverage](https://codeclimate.com/github/fxxkit/appetizers/badges/coverage.svg)](https://codeclimate.com/github/fxxkit/appetizers)
 
 [Heroku](http://od-app.herokuapp.com/)
 
