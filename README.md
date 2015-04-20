@@ -1,7 +1,7 @@
 # [![Web Starter Kit](https://cloud.githubusercontent.com/assets/170270/3343034/ceef6e92-f899-11e3-96b9-5d9d69d97a00.png)](https://github.com/google/web-starter-kit/releases/latest)
 
-[![Build Status](https://travis-ci.org/fxxkit/od-app.svg)](https://travis-ci.org/fxxkit/od-app)
-[![GitHub version](https://badge.fury.io/gh/fxxkit%2Fod-app.svg)](http://badge.fury.io/gh/fxxkit%2Fod-app)
+[![Build Status](https://travis-ci.org/fxxkit/appetizers.svg)](https://travis-ci.org/fxxkit/appetizers)
+[![GitHub version](https://badge.fury.io/gh/fxxkit%2Fappetizers.svg)](http://badge.fury.io/gh/fxxkit%2Fappetizers)
 [![Code Climate](https://codeclimate.com/github/fxxkit/appetizers/badges/gpa.svg)](https://codeclimate.com/github/fxxkit/appetizers)
 [![Test Coverage](https://codeclimate.com/github/fxxkit/appetizers/badges/coverage.svg)](https://codeclimate.com/github/fxxkit/appetizers)
 
